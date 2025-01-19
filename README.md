@@ -15,9 +15,6 @@ Este repositório contém um diagrama de banco de dados relacional criado para f
 - **Estoque**: Gerencia locais e quantidades de produtos.  
 - **Forma de Pagamento**: Define os métodos de pagamento disponíveis.  
 
-## 🖼️ Diagrama ER
-O diagrama completo está disponível no arquivo **e-commerce-diagrama.png**.
-
 ---
 
 **Projeto de estudo para prática de modelagem de banco de dados.**
